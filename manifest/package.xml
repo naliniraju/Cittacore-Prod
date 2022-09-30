@@ -29,6 +29,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Account.SudhaCustomFeild__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>*</members>
         <name>Profile</name>
     </types>

@@ -25,6 +25,11 @@
         <field>Account.Custom_field_Mounika__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.SudhaCustomFeild__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginIpRanges>
         <description>Allow all IP</description>
         <endAddress>255.255.255.255</endAddress>
