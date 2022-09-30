@@ -1,0 +1,15 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	<div class="slds-box">
+  <p>This is a regular-sized box.</p>
+
+    <lightning:card footer="Card Footer" title="Hello">
+        <aura:set attribute="actions">
+            <lightning:button label="New"/>
+        </aura:set>
+        <p style="length:50px; height:50px" class="slds-p-around_xx-large">
+            
+        </p>
+              HI
+    </lightning:card>
+        </div>
+</aura:component>
