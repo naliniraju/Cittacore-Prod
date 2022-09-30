@@ -10,6 +10,11 @@
         <field>Account.CustomField1__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Custom_field_Sowmya__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginIpRanges>
         <description>Allow all IP</description>
         <endAddress>255.255.255.255</endAddress>
