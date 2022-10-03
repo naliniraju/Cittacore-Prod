@@ -30,6 +30,11 @@
         <field>Account.SudhaCustomFeild__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.customFileldkarim__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginIpRanges>
         <description>Allow all IP</description>
         <endAddress>255.255.255.255</endAddress>
