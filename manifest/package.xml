@@ -37,6 +37,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Account.Custom_field_arpit__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>*</members>
         <name>Profile</name>
     </types>
