@@ -13,6 +13,10 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>Account.describedemo</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Account.CustomField1__c</members>
         <name>CustomField</name>
     </types>

@@ -12,6 +12,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Describedemo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Custom_field_Sowmya__c</field>
         <readable>true</readable>
     </fieldPermissions>
