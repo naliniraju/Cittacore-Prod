@@ -1,60 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-  <types>
-        <members>contactControllerCls</members>
-        <name>ApexClass</name>
-    </types>
-   <types>
-        <members>mycomponent</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
     <types>
-        <members>codesample</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-      <types>
-        <members>ContactEditDataService</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>Account.describedemo</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.CustomField1__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.Custom_field_Sowmya__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.Custom_sangeetha__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.Custom_field_Mounika__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.SudhaCustomFeild__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.customFileldkarim__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.Custom_field_arpit__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account.Custom_field_Pavan__c</members>
+        <members>Account.Has_Field__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>*</members>
         <name>Profile</name>
+    </types>
+    <types>
+    <members>Account-Account Layout</members>
+        <name>Layout</name>
     </types>
     <version>55.0</version>
 </Package>

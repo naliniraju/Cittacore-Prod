@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "MyOrgProj",
+  "name": "Creating a field",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
