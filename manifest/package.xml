@@ -4,6 +4,10 @@
         <members>contactControllerCls</members>
         <name>ApexClass</name>
     </types>
+   <types>
+        <members>mycomponent</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
     <types>
         <members>codesample</members>
         <name>AuraDefinitionBundle</name>
